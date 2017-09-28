@@ -1,8 +1,0 @@
-digraph "ICT283-Assignment1-2017/Assignment1 (4)/Assignment1 (2)/Assignment1/Vector.h"
-{
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  Node0 [label="ICT283-Assignment1\l-2017/Assignment1 (4)\l/Assignment1 (2)/Assignment1\l/Vector.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
-  Node0 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
-  Node1 [label="iostream",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
-}
