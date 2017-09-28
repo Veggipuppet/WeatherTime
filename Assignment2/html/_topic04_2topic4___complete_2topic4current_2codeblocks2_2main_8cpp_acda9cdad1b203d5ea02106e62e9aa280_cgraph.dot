@@ -1,0 +1,13 @@
+digraph "operator&lt;&lt;"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node14 [label="operator\<\<",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node14 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="Date::GetDay",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_date.html#a6304a67f1c13b239eb8e80ad68161e40",tooltip="Getter method for Day. "];
+  Node14 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="Date::GetMonth",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_date.html#af2dcc6ce51dbb2bd798499a149bdffb7",tooltip="Getter method for Month. "];
+  Node14 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="Date::GetYear",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_date.html#ad79ce504482f317ddcfdc4ecad77671f",tooltip="Getter method for Year. "];
+}

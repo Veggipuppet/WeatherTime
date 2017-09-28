@@ -1,0 +1,19 @@
+digraph "Registration::SetSemester"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node85 [label="Registration::SetSemester",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node85 -> Node86 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node86 [label="Registration::GetCredits",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_registration.html#a72a5cc800d9551d69e4c201cd9f07ccd"];
+  Node85 -> Node87 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node87 [label="Result::GetCredits",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_result.html#ab4772c61e1094931099000f5792aeaa6"];
+  Node87 -> Node88 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node88 [label="Unit::GetCredits",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_unit.html#ab1f83a3955a721e46730773747e4e67e"];
+  Node85 -> Node89 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node89 [label="Registration::GetCount",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_registration.html#a729a2d6ae08aefd2dbe10ec7b3e5ce48"];
+  Node85 -> Node90 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node90 [label="Registration::SetCount",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_registration.html#a17d4a868822e73e0c0e9f2ed6307db8a"];
+  Node85 -> Node91 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node91 [label="Registration::GetResults",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_registration.html#aa08ee6817c26b5a9183bdb25b6a57ada"];
+}

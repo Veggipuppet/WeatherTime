@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1496295563 source:d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\data.cpp
+	"Data.h"
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\data.h
+	"Time.h"
+	"Date.h"
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\time.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cstdlib>
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\date.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1496295596 source:d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\date.cpp
+	"Date.h"
+
+1496288394 source:d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\datetest.c
+	<iostream>
+	"Time.h"
+
+1496471973 source:d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<vector>
+	"Weather.h"
+	"Data.h"
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\weather.h
+	<iostream>
+	<stdlib.h>
+	<map>
+	<vector>
+	"Data.h"
+	"binaryTreeType.h"
+
+1496475189 d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\binarytreetype.h
+	<iostream>
+
+1496288394 source:d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\time.cpp
+	"Time.h"
+
+1496288394 source:d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\timetest.cpp
+	<iostream>
+	"Time.h"
+
+1496288394 source:d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\vectortest.cpp
+	<iostream>
+	"vector.h"
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\vector.h
+	<iostream>
+
+1496469453 source:d:\work\uni_murdoch\ict283_datastructures\assignment-2\submission\assignment2\weather.cpp
+	"Weather.h"
+
+1496295563 source:d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\data.cpp
+	"Data.h"
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\data.h
+	"Time.h"
+	"Date.h"
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\time.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cstdlib>
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\date.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1496295596 source:d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\date.cpp
+	"Date.h"
+
+1496288394 source:d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\datetest.c
+	<iostream>
+	"Time.h"
+
+1496288394 source:d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\time.cpp
+	"Time.h"
+
+1496288394 source:d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\timetest.cpp
+	<iostream>
+	"Time.h"
+
+1496288394 source:d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\vectortest.cpp
+	<iostream>
+	"vector.h"
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\vector.h
+	<iostream>
+
+1496469453 source:d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\weather.cpp
+	"Weather.h"
+
+1496475249 d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\weather.h
+	<iostream>
+	<stdlib.h>
+	<map>
+	<vector>
+	"Data.h"
+	"binaryTreeType.h"
+
+1496475189 d:\work\uni_murdoch\ict283_datastructures\dev\weathertime\assignment2\binarytreetype.h
+	<iostream>
+
